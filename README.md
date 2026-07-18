@@ -2,7 +2,7 @@
 
 <img src="welcome_banner.svg" alt="Welcome" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FF10F0)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FF10F0)](https://github.com/cybersecm4ria)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-costa-515542255)
 [![Gmail](https://img.shields.io/badge/GMAIL-C400FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claracupertinodacosta@gmail.com)
 
