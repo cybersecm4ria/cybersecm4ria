@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante do curso superior de **Defesa Cibernética** pela **FIAP** (2025–2027) e atuo como **estagiária em Segurança da Informação**, com passagem por Red Team (pentest, hardening, regras de firewall) e atuação atual em Blue Team (SOC, SIEM, SOAR, Splunk). Por aqui gosto de documentar meus projetos de laboratório, análises de ameaças e o que vou aprendendo no caminho entre atacar e defender.
+Sou estudante do curso superior de **Defesa Cibernética** pela **FIAP** (2025–2027) e atuo como **estagiária em Segurança da Informação**, com passagem por Red Team (pentest, hardening, regras de firewall) e atuação atual em Blue Team (SOC, SIEM, SOAR). Por aqui gosto de documentar meus projetos de laboratório, análises de ameaças e o que vou aprendendo no caminho entre atacar e defender.
 
 <table>
 <tr>
